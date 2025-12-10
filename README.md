@@ -1,5 +1,8 @@
 # 🗺️ Accessibility Score Calculator Web Application
 
+![15 minute accessibility app screenshot](./15_min_accessibility_app.png)
+
+
 This is a Streamlit application designed to visualize and calculate an **15-minute Accessibility Score** for different senior housings based on the proximity and density of various key amenities.
 
 Users can dynamically adjust the weight (importance) assigned to different amenity categories (like food, health, transport, etc.) and instantly see the resulting accessibility score reflected on an interactive map.
