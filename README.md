@@ -75,4 +75,7 @@ The command above will automatically open a new tab in your web browser, typical
 
 You can now interact with the sliders in the sidebar and observe the changes on the map.
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
+
 
